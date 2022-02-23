@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f147aeb9c44d40fa96e966678df54243e71e271",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x209307d99e5e70be2679c275b2f9de118ff69a8966e6f467e57811e93ea55e4e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lucky Blades",
+  "SYMBOL": "LBNFTS",
+  "MAX_SUPPLY": 9996,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lucky-blades",
+  "SHOW_BACKGROUND": true
+}
